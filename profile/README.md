@@ -37,6 +37,10 @@ gain items and xp from PvP and PvE. Chat with other players!
 - [Entity](https://github.com/reinarpg/reinarpg-entity)
 - [Biome](https://github.com/reinarpg/reinarpg-biome)
 - [Chat](https://github.com/reinarpg/reinarpg-chat)
+- [Recipe](https://github.com/reinarpg/reinarpg-recipe)
+- [Registry](https://github.com/reinarpg/reinarpg-registry)
+- [Windows](https://github.com/reinarpg/reinarpg-windows)
+- [Physics](https://github.com/reinarpg/reinarpg-physics)
 - [Anvil (Storage)](https://github.com/reinarpg/reinarpg-anvil)
 # Try the game
 
